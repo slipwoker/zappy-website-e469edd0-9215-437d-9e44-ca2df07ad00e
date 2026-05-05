@@ -1,0 +1,109 @@
+# ביצי הזהב של חולון — Generative Engine Optimization Map
+
+> A retail store selling a diverse mix of food products and household goods, including eggs, honey, oil, tuna, towels, bed linen, and sunscreen. The store appears to offer a combination of pantry staples and everyday household essentials, catering to everyday consumer needs.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ביצים טריות, דבש טבעי, טונה איכותית ועוד מוצרי מזון ומשק בית במחיר שלא תאמינו. קנו הכל במקום אחד וחסכו זמן וכסף. בואו לגלות!
+
+### קטגוריות
+https://example.com/categories
+גלו את מגוון הקטגוריות שלנו: ביצים טריות, דבש, שמן, טונה, מגבות, מצעים וקרם הגנה. מוצרי מזון ומשק בית איכותיים לכל צורך יומיומי. עיינו עכשיו!
+
+### אודות
+https://example.com/about
+אנחנו חנות שכונתית בחולון עם לב גדול ומוצרים איכותיים. למדו מי אנחנו, מה מניע אותנו ולמה אלפי לקוחות בוחרים בנו לקניית ביצים, דבש ומוצרי יומיום. הכירו אותנו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על ביצים טריות, טונה, דבש או כל מוצר אחר? צרו איתנו קשר עכשיו ונשמח לעזור. מצאו אותנו בחולון ובואו לחוות קניות אחרות לגמרי!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ביצי הזהב של חולון
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ביצי הזהב של חולון
+
+### Category
+https://example.com/category/:slug
+מוצרים - ביצי הזהב של חולון
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ביצי הזהב של חולון
+A retail store selling a diverse mix of food products and household goods, including eggs, honey, oil, tuna, towels, bed linen, and sunscreen. The store appears to offer a combination of pantry staples and everyday household essentials, catering to everyday consumer needs.
+
+## Services/Products
+- ביצים
+- דבש
+- שמן
+- טונה
+- מגבות
+- מצעים
+- קרם הגנה
+
+## Target Audience
+- משפחות מקומיות
+- מקצוענים צעירים
+- ביצים
+
+## Industry
+קמעונאות מזון ומוצרי צריכה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
